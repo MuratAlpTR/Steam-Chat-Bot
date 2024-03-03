@@ -1,3 +1,5 @@
+//     “a project developed by MuratAlpTR”
+
 const SteamChatBot = require('node-steam-chat-bot');
 
 // Initialize the chat bot
@@ -26,3 +28,5 @@ myBot.on('chat_message', (sender, text, own) => {
 
 // When done, log off gracefully
 // myBot.logoff();
+
+//     “a project developed by MuratAlpTR”
